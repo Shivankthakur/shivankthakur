@@ -1,6 +1,7 @@
 ## Hi, I'm Shivank :wave:
 
-- :mortar_board: Master's student in Computer Science @ SJSU
+- :mortar_board: MS Computer Science @ SJSU
+- :school: BE Computer Science @ BITS Pilani
 - :computer: 2+ years as Software Engineer @ PayPal
 - :bar_chart: Data Science Intern @ NoBrokerHood
 - :brain: Machine Learning Intern @ Silver Touch
