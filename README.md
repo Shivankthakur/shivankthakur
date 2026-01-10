@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Shivank :wave:
+
+- :mortar_board: Master's student in Computer Science @ SJSU
+- :computer: 2+ years as Software Engineer @ PayPal
+- :bar_chart: Data Science Intern @ NoBrokerHood
+- :brain: Machine Learning Intern @ Silver Touch
+
+## :link: Find me here
+- :briefcase: [Linkedin](https://www.linkedin.com/in/shivank-singh-thakur/)
+- :email: shivanksingh.thakur@sjsu.edu
 
 <!--
 **Shivankthakur/shivankthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
