@@ -4,7 +4,7 @@
 - :school: BE Computer Science @ BITS Pilani
 - :computer: 2+ years as Software Engineer @ PayPal
 - :bar_chart: Data Science Intern @ NoBrokerHood
-- :brain: Machine Learning Intern @ Silver Touch
+- :brain: Machine Learning Intern @ SilverTouch
 
 ## :link: Find me here
 - :briefcase: [Linkedin](https://www.linkedin.com/in/shivank-singh-thakur/)
