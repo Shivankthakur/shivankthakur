@@ -1,4 +1,4 @@
-## Hi there👋, I'm Shivank
+## Hi there 👋 , I'm Shivank
 
 - :mortar_board: MS Computer Science @ SJSU
 - :school: BE Computer Science @ BITS Pilani
