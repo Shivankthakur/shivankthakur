@@ -2,6 +2,7 @@
 
 - :mortar_board: MS Computer Science @ SJSU
 - :school: BE Computer Science @ BITS Pilani
+- 🤖 AI Developer Graduate @ SJSU IT PMO
 - :computer: 2+ years as Software Engineer @ PayPal
 - :bar_chart: Data Science Intern @ NoBrokerHood
 - :brain: Machine Learning Intern @ SilverTouch
